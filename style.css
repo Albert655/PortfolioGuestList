@@ -1,0 +1,25 @@
+#submit_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#show_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+#search_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px;
+}
+#sort_button
+{
+	margin-top: 20px; 
+	margin-bottom: 20px; 
+}
+
+input
+{
+	margin: 10px;
+}
